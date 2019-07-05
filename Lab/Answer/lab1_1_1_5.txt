@@ -1,0 +1,23 @@
+Home Depot
+-Victim : Retailer and customer
+-Tech and Tool : Malware
+-When: Sept 2014
+-What is the target: Credit Card
+-Motivation: money
+-Outcome of the attck : use their credit card
+
+Home Depot
+-Victim : Target Corporation
+-Tech and Tool :  third  party  vendor,  Fazio  Me-chanical  Services,  which  is  a  heating,  ventilation,  andair-conditioning firm.
+-When: Nov-Des 2018
+-What is the target: Credit Card
+-Motivation: money
+-Outcome of the attck : use their credit card information to purchase
+
+StuxNet Virus
+-Victim : Scada System, damage to IRAN nuclear program
+-Tech and Tool :  Malicious computer worm
+-When: 2005-2010
+-What system is the target: Microsoft windows operating system
+-Motivation: Financial
+-Outcome of the attck : Shutdown SCADA POWER

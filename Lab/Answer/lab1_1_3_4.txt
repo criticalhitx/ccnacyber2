@@ -1,0 +1,12 @@
+a.   Who is the attacker? 
+- PenTester
+b.   What organization/group is the attacker associated with? 
+- business competitor
+c.    What is the motive of the attacker?
+- to make their server not available.  
+d.   What method of attack was used? 
+- Dedicated DOS
+e.   What was the target and vulnerability used against the business?
+- Server
+f.    How could this attack be prevented or mitigated? 
+- Enable anti ddos in network device

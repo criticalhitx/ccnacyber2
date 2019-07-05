@@ -1,0 +1,9 @@
+a.  What is the vulnerability?
+inadequate password encryption, lack of access restriction, hack device that have internet connection, information leakage
+b.  Who might exploit it? Explain. 
+Cyber Attacker can exploit the weakness of IoT
+c.    Why does the vulnerability exist? 
+- Weak Security between IoT devices
+
+d.   What could be done to limit the vulnerability?
+-Do Encryption, Increase Access Control.
